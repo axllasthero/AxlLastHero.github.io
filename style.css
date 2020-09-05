@@ -1,0 +1,55 @@
+h1 {
+    text-align: center
+}
+#red {
+    height: 200px;
+    width: 200px;
+    border-radius: 50%;
+    background-color: red;
+    margin-left: 460px;
+    display: inline-block;
+}
+#green {
+    height: 200px;
+    width: 200px;
+    border-radius: 50%;
+    background-color: green;
+    margin-left: 200px;
+    display: inline-block;
+
+}
+#seawave {
+    height: 200px;
+    width: 200px;
+    border-radius: 50%;
+    background-color: lightblue;
+    display: inline-block;
+    margin-left: 200px;
+}
+#btn {
+    display: inline;
+    margin-left: 30px;
+}
+#txt{
+    margin-left: 860px;
+    display: inline;
+}
+#gif {
+    height: 100px;
+    width: 150px;
+    display: block;
+    margin-left:880px ;
+    margin-top: 30px;
+}
+
+
+#gif:hover {
+    height: 5px;
+    width: 5px;
+    transition: 5s ease-out;
+}
+#gif:active{
+    transform: rotate(180deg);
+    transition: 2s ease-out;
+
+}
