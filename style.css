@@ -1,6 +1,4 @@
-#head {
 
-}
 #ap{
     width: 25px ;
     height: 25px;
@@ -12,4 +10,19 @@
 #an{
     width: 25px ;
     height: 25px;
+}
+#Prop {
+    text-align: center;
+    margin-top: 250px;
+}
+#smalltxt {
+    text-align: center;
+}
+#foot {
+    background-color: black;
+}
+#adaptive{
+    height: 50px;
+    width: 150px;
+
 }
