@@ -1,0 +1,54 @@
+
+#ap{
+    margin-top: 50px;
+    width: 50px ;
+    margin-left: 25px;
+    height: 50px;
+}
+#win{
+    width: 50px ;
+    margin-top: 50px;
+    height: 50px;
+}
+#an{
+    width: 50px ;
+    height: 50px;
+    margin-top: 50px;
+    margin-left: 25px;
+}
+#Prop {
+    text-align: center;
+    margin-top: 100px;
+}
+#smalltxt {
+    text-align: center;
+    margin-bottom: 100px;
+}
+#foot {
+    background-color: black;
+
+}
+
+#bg{
+    background-image: url(img/background.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+}
+#conect{
+    padding-top: 100px;
+    color: skyblue;
+    text-align: center;
+}
+#e-mail{
+    color: tomato;
+    text-align: center;
+    font-size: large;
+}
+#ins_email {
+    margin-left: 17rem;
+    padding: 25px;
+    margin-top: 55px;
+    height: 50px;
+    width: 500px;
+}
